@@ -55,8 +55,8 @@
   }
   
   input[type="submit"] {
-    background-color: #4CAF50;
-    color: white;
+    background-color: #ffd700; /* Gold */
+    color: #fff; /* White text */
     padding: 10px 20px;
     border: none;
     border-radius: 4px;
@@ -65,8 +65,9 @@
   }
   
   input[type="submit"]:hover {
-    background-color: #45a049;
+    background-color: #ffcc00; /* Darker gold on hover */
   }
+  
   
   .result-box {
     margin-top: 20px;

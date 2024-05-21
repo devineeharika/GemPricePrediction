@@ -75,9 +75,13 @@
         </div>
       </form>
     </div>
+    {% if results %}
     <div class="result-box">      
-      <h2 class="result-heading">Predicted Gemstone Price is : {{ results }}</h2>
+     
+        <h2 class="result-heading">Predicted Gemstone Price is : {{ results }}</h2>
+      
     </div>
+    {% endif %}
   </div>
 </body>
 </html>
