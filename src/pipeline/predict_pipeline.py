@@ -10,8 +10,8 @@ class PredictPipeline:
 
     def predict(self, features):
         try:
-            preprocessor_path = 'artifacts/preprocessor.pkl'
-            model_path = 'artifacts/model.pkl'
+            preprocessor_path = r'C:\Users\LENOVO\Downloads\GemPricePrediction\artifacts\preprocessor.pkl'
+            model_path = r'C:\Users\LENOVO\Downloads\GemPricePrediction\artifacts\model.pkl'
             preprocessor = load_object(file_path=preprocessor_path)
             model = load_object(file_path=model_path)
             data_scaled = preprocessor.transform(features)
