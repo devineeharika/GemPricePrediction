@@ -1,3 +1,6 @@
+gitpython
+os-win
+wheel
 numpy
 pandas
 matplotlib
@@ -9,5 +12,5 @@ xgboost
 dill
 flask
 flask_cors
-lime
+
 -e .
