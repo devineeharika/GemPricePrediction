@@ -12,5 +12,10 @@ xgboost
 dill
 flask
 flask_cors
+dagshub
+dvc
+dvc-s3
+joblib
+mlflow
 
 -e .

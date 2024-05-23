@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/LENOVO/Downloads/GemPricePrediction/src/components/mlruns/436820761146549542/1ab987f78b0b41d3b24bee66bb6a324f/artifacts
+end_time: 1716431050377
+entry_point_name: ''
+experiment_id: '436820761146549542'
+lifecycle_stage: active
+run_id: 1ab987f78b0b41d3b24bee66bb6a324f
+run_name: best_Lasso_model
+run_uuid: 1ab987f78b0b41d3b24bee66bb6a324f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716431045290
+status: 3
+tags: []
+user_id: LENOVO

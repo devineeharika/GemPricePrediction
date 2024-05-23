@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/LENOVO/Downloads/GemPricePrediction/src/components/mlruns/436820761146549542/1bdcb07cb6934a8a85e56da413807a5d/artifacts
+end_time: 1716429973701
+entry_point_name: ''
+experiment_id: '436820761146549542'
+lifecycle_stage: active
+run_id: 1bdcb07cb6934a8a85e56da413807a5d
+run_name: best_Linear Regression_model
+run_uuid: 1bdcb07cb6934a8a85e56da413807a5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716429968248
+status: 3
+tags: []
+user_id: LENOVO

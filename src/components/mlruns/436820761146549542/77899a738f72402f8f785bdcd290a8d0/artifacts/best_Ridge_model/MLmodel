@@ -1,0 +1,19 @@
+artifact_path: best_Ridge_model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.8.0
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.3.2
+mlflow_version: 2.2.2
+model_uuid: e46e265aa88e401abb66e4b083835238
+run_id: 77899a738f72402f8f785bdcd290a8d0
+utc_time_created: '2024-05-23 02:24:10.830313'
